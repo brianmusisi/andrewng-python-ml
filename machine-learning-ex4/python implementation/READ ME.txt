@@ -1,0 +1,17 @@
+########################################################################################
+
+The file neural_net.py contains an implementation of a neural network algorithm written in python
+
+The algorithm has been optimized for the digits dataset, in the same folder. Each row in the X portion 
+of the dataset corresponds to a particular digit. The digit it corresponds to is also provided in the corresponding
+y column.
+
+The neural net is used to learn and later predict the number in an image based on the pixel intensities at different values.
+
+The file use_neural_net.py loads the data from  the digits dataset, splits it into train and test data,
+trains the model using the training data and then predicts the number based on the pixel values only
+in the test data. The accuracy is then calculated and printed
+
+Text versions of the two python files are also included.
+
+########################################################################################
