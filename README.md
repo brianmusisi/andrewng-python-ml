@@ -1,6 +1,6 @@
 # Python Solutions to Andrew Ng's Machine Learning Course
 
-This repo contains solutions to Andrew Ng's popular Machine Learning course from Coursera written both in Octave as well as pPython
+This repo contains solutions to Andrew Ng's popular Machine Learning course from Coursera written both in Octave as well as Python
 
 Each folder corresponds to one of the 8 exercises in the course. Each folder consists:
 * Folder with Original Octave code
@@ -8,3 +8,5 @@ Each folder corresponds to one of the 8 exercises in the course. Each folder con
 * Python implementation of the exercises
 
 As would be expected, the last folder contains the python implementation of the solution to the exercise.
+
+*So far I've written implementations for 4 of the exercises, the others will be uploaded soon*
